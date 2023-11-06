@@ -1,0 +1,9 @@
+{ 
+   "build": { 
+   "type": "gradle",
+   "goal": "build"
+   }, 
+   "deploy": {
+     "jarName" : "src/main/java/com/portafolio/ecomerce/EcomerceApplication.java"
+   }
+}
